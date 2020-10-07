@@ -1,0 +1,9 @@
+C:\Users\Leon\source\repos\LeonMaps\bin\Debug\LeonMaps.exe.config
+C:\Users\Leon\source\repos\LeonMaps\bin\Debug\LeonMaps.exe
+C:\Users\Leon\source\repos\LeonMaps\bin\Debug\LeonMaps.pdb
+C:\Users\Leon\source\repos\LeonMaps\obj\Debug\LeonMaps.csprojAssemblyReference.cache
+C:\Users\Leon\source\repos\LeonMaps\obj\Debug\LeonMaps.frm.resources
+C:\Users\Leon\source\repos\LeonMaps\obj\Debug\LeonMaps.Properties.Resources.resources
+C:\Users\Leon\source\repos\LeonMaps\obj\Debug\LeonMaps.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\LeonMaps\obj\Debug\LeonMaps.exe
+C:\Users\Leon\source\repos\LeonMaps\obj\Debug\LeonMaps.pdb

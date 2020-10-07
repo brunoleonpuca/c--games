@@ -1,0 +1,9 @@
+C:\Users\Leon\source\repos\LeonDigitalClock\bin\Debug\LeonDigitalClock.exe.config
+C:\Users\Leon\source\repos\LeonDigitalClock\bin\Debug\LeonDigitalClock.exe
+C:\Users\Leon\source\repos\LeonDigitalClock\bin\Debug\LeonDigitalClock.pdb
+C:\Users\Leon\source\repos\LeonDigitalClock\obj\Debug\LeonDigitalClock.Properties.Resources.resources
+C:\Users\Leon\source\repos\LeonDigitalClock\obj\Debug\LeonDigitalClock.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\LeonDigitalClock\obj\Debug\LeonDigitalClock.exe
+C:\Users\Leon\source\repos\LeonDigitalClock\obj\Debug\LeonDigitalClock.pdb
+C:\Users\Leon\source\repos\LeonDigitalClock\obj\Debug\LeonDigitalClock.clock.resources
+C:\Users\Leon\source\repos\LeonDigitalClock\obj\Debug\LeonDigitalClock.csprojAssemblyReference.cache

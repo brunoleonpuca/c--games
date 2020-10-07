@@ -1,0 +1,9 @@
+C:\Users\Leon\source\repos\LeonCurrencyConverter\bin\Debug\LeonCurrencyConverter.exe.config
+C:\Users\Leon\source\repos\LeonCurrencyConverter\bin\Debug\LeonCurrencyConverter.exe
+C:\Users\Leon\source\repos\LeonCurrencyConverter\bin\Debug\LeonCurrencyConverter.pdb
+C:\Users\Leon\source\repos\LeonCurrencyConverter\obj\Debug\LeonCurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Leon\source\repos\LeonCurrencyConverter\obj\Debug\LeonCurrencyConverter.Properties.Resources.resources
+C:\Users\Leon\source\repos\LeonCurrencyConverter\obj\Debug\LeonCurrencyConverter.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\LeonCurrencyConverter\obj\Debug\LeonCurrencyConverter.exe
+C:\Users\Leon\source\repos\LeonCurrencyConverter\obj\Debug\LeonCurrencyConverter.pdb
+C:\Users\Leon\source\repos\LeonCurrencyConverter\obj\Debug\LeonCurrencyConverter.currencyConvert.resources
